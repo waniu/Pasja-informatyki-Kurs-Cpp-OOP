@@ -1,0 +1,30 @@
+Jak mam na imie?
+Kuba
+Marcin
+Paweł
+Karol
+a
+Ile mam lat?
+12
+19
+39
+26
+d
+Jak nazywa sie moja dziewczyna?
+Ania
+Daria
+Ewa
+Paulina
+b
+Gdzie mieszkam?
+Warszawa
+Wroclaw
+Gdynia
+Pcim
+b
+Ucze sie?
+Pisania
+Czytania
+Programowania
+Niczego
+c
